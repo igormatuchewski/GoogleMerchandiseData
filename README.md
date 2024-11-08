@@ -23,7 +23,9 @@ Quais países e produtos têm o maior volume de vendas?
 Como o preço de um produto influencia sua taxa de vendas?
 
 📄 **Documentação Completa**
-Para uma descrição detalhada das etapas, métodos e resultados do projeto, consulte o arquivo Documentação.docx.
+Para uma descrição detalhada das etapas, métodos e resultados do projeto, consulte o arquivo
+
+[Google Merchandise Data - Documentação.docx](https://1drv.ms/w/c/5cb710011dfb498c/EfrrZ76oTKtKgdS_6TwEJxgBv2gdbJofkT3ewCOZdPgO9g?e=zb6Zk0)
 
 📂 **Arquivos Disponíveis**
 
